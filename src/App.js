@@ -10,7 +10,7 @@ function App() {
   useEffect(() => {
     alanBtn({
       key:
-        "db2727cc3f74cf36c8723828d42d44832e956eca572e1d8b807a3e2338fdd0dc/stage",
+        "",
       onCommand: ({ command }) => {
         if (command === "firstCommand") {
           alert("firstcommand");
